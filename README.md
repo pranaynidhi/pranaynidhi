@@ -14,11 +14,33 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranaynidhi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=pranaynidhi&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaynidhi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaynidhi&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🧠 Focus
 
 I’m developing practical cybersecurity skills through **end-to-end SOC & DFIR workflows**:
 
 **attack → detect → investigate → report**
+
 
 I focus on:
 - Building small tools to support investigations  
@@ -64,26 +86,21 @@ I focus on:
 ### 🔐 SOC / DFIR & Automation
 
 #### 🤖 THM Discord Bot (Python)
-Automation tool for TryHackMe workflows  
 🔗 https://github.com/pranaynidhi/thm-discord-bot  
 
 #### 🤖 CTF Discord Bot (JavaScript)
-Event/CTF support bot for workflows & automation  
 🔗 https://github.com/pranaynidhi/gzctf_discord_bot  
 
 #### 📓 TryHackMe Notes & Practice
-Structured learning + documentation  
 🔗 https://github.com/pranaynidhi/thm  
 
-> ⚡ Currently improving these with better documentation, reproducibility, and investigation-style writeups.
+> ⚡ Improving with better documentation, reproducibility, and investigation-style writeups.
 
 ---
 
-### 🌐 Engineering Projects (Supporting Skills)
+### 🌐 Engineering Projects
 
 #### 🧩 MicroHire Platform
-Full-stack application project  
-
 - Frontend → https://github.com/pranaynidhi/microhire-frontend  
 - Backend → https://github.com/pranaynidhi/microhire-backend  
 - Main Repo → https://github.com/pranaynidhi/MicroHire  
@@ -92,29 +109,40 @@ Full-stack application project
 
 ## 🚧 Currently Building
 
-- 🧪 **Mini SOC + DFIR Lab**
-  - Windows telemetry collection  
-  - Detection creation  
-  - Investigation workflow  
-  - Full incident report  
+- 🧪 Mini SOC + DFIR Lab  
+- 🧠 Windows Internals (deep dive)  
+- 📊 Advanced host-based investigations  
+- 📝 Professional reporting & documentation  
 
-- 🧠 Deeper **Windows Internals**
-- 📊 Stronger **host-based investigation skills**
-- 📝 More professional **documentation & reporting**
+---
+
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranaynidhi&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 📈 Coding Activity (Lines, Commits, Languages)
+
+<!-- Optional: Requires WakaTime setup -->
+<!-- Replace username if needed -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pranaynidhi&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📈 Goals
 
 - Transition into a **SOC / DFIR role**
-- Build production-style security tools  
-- Contribute to detection engineering & blue team workflows  
+- Build production-level security tools  
+- Contribute to detection engineering workflows  
 
 ---
 
 ## 🤝 Connect
-
-If you're working on SOC labs, DFIR projects, or detection engineering:
 
 - 💼 LinkedIn → https://www.linkedin.com/in/pranay-nidhi-628b6116a/  
 - 🌐 Website → https://pranaynidhi.xyz  
@@ -124,5 +152,3 @@ If you're working on SOC labs, DFIR projects, or detection engineering:
 ## ⚡ Philosophy
 
 > Learn → Build → Break → Detect → Improve
-
----
