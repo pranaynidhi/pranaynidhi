@@ -88,7 +88,6 @@ I focus on:
 
 - Frontend: [microhire-frontend](https://github.com/pranaynidhi/microhire-frontend)
 - Backend: [microhire-backend](https://github.com/pranaynidhi/microhire-backend)
-- Main Repo: [MicroHire](https://github.com/pranaynidhi/MicroHire)
 
 ---
 
