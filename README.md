@@ -10,10 +10,10 @@
 
 ## 📊 GitHub Activity
 
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranaynidhi&show_icons=true&theme=tokyonight&hide_border=true)
+![Pranay's GitHub Stats](https://github-readme-stats-phi-amber-61.vercel.app/api?username=pranaynidhi&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pranaynidhi&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaynidhi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-phi-amber-61.vercel.app/api/top-langs/?username=pranaynidhi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -111,7 +111,7 @@ I focus on:
 <!-- Optional: Requires WakaTime setup -->
 <!-- Replace username if needed -->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranaynidhi&theme=tokyonight&hide_border=true)
+![WakaTime Stats](https://github-readme-stats-phi-amber-61.vercel.app/api/wakatime?username=pranaynidhi&theme=tokyonight&hide_border=true)
 
 ---
 
