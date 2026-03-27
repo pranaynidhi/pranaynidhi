@@ -1,72 +1,128 @@
-# Pranay Nidhi
+# 👋 Pranay Nidhi
 
-SOC + DFIR focused | Detection engineering mindset | Builder (automation + tooling)
+🛡️ SOC Analyst (in training) | DFIR | Detection Engineering  
+⚙️ Builder mindset — automation, tooling, and practical security workflows  
 
-- LinkedIn: https://www.linkedin.com/in/pranay-nidhi-628b6116a/
-- Website: https://pranaynidhi.xyz
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranay-nidhi-628b6116a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranay%20Nidhi-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://pranaynidhi.xyz">
+    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat&logo=firefox" />
+  </a>
+</p>
 
 ---
 
-## What I’m focused on
-I’m building practical skills across **SOC operations and DFIR** by working on end-to-end flows:
+## 🧠 Focus
+
+I’m developing practical cybersecurity skills through **end-to-end SOC & DFIR workflows**:
 
 **attack → detect → investigate → report**
 
-I learn best by building tooling, testing in labs/CTFs, and writing clear documentation.
+I focus on:
+- Building small tools to support investigations  
+- Simulating real-world attack scenarios  
+- Writing structured, professional reports  
 
 ---
 
-## Core strengths
-- **Detection & monitoring:** turning suspicious behavior into repeatable detections
-- **DFIR workflows:** triage mindset, evidence-first thinking, and structured reporting
-- **Automation:** Python scripts/tools that reduce investigation time and standardize output
-- **Hands-on practice:** CTF/lab-style problem solving and iterative improvement
+## 🔍 Core Strengths
+
+- **Detection Engineering**  
+  Turning suspicious activity into repeatable detection logic  
+
+- **DFIR Mindset**  
+  Evidence-driven investigation, timeline analysis, structured triage  
+
+- **Automation**  
+  Python-based tooling to reduce manual effort and improve consistency  
+
+- **Hands-on Learning**  
+  CTFs, labs, and iterative problem solving  
 
 ---
 
-## Skills & tooling (current)
-**Security / DFIR**
-- Alert triage concepts, investigation workflow, timeline thinking
-- Host + network analysis foundations (logs, basic network telemetry)
-- Report writing (executive summary + technical details + remediation)
+## ⚙️ Skills & Tooling
 
-**Programming**
-- Python (automation/tooling)
-- JavaScript/TypeScript (web + bots/projects)
-- C (systems/programming coursework)
-- PHP/HTML (web)
+### 🛡️ Security / DFIR
+- Alert triage & investigation workflows  
+- Host + network analysis fundamentals  
+- Log analysis & basic telemetry interpretation  
+- Structured reporting (technical + executive level)  
 
----
-
-## Selected projects (from my repos)
-### Security / Automation (SOC/DFIR leaning)
-- **THM Discord Bot (Python)** — automation/bot work  
-  https://github.com/pranaynidhi/thm-discord-bot
-
-- **CTF Discord Bot (JavaScript)**  
-  https://github.com/pranaynidhi/gzctf_discord_bot
-
-- **TryHackMe notes / practice**  
-  https://github.com/pranaynidhi/thm
-
-> I’m actively improving these repos with stronger documentation, reproducible steps, and more “incident-style” writeups.
-
-### Full-stack / Engineering projects (supporting skills)
-- **MicroHire** (platform project)  
-  https://github.com/pranaynidhi/MicroHire  
-  Frontend: https://github.com/pranaynidhi/microhire-frontend  
-  Backend: https://github.com/pranaynidhi/microhire-backend
+### 💻 Programming
+- Python (automation, scripting)
+- JavaScript / TypeScript (bots, backend logic)
+- C (systems-level coursework)
+- PHP / HTML (web fundamentals)
 
 ---
 
-## What I’m working on next
-- A **Mini SOC + DFIR lab project** (Windows telemetry → detections → investigation → report)
-- Deeper **Windows internals** + better host-based investigation skills
-- More consistent documentation: READMEs, diagrams, and professional reporting structure
+## 🛠️ Featured Projects
+
+### 🔐 SOC / DFIR & Automation
+
+#### 🤖 THM Discord Bot (Python)
+Automation tool for TryHackMe workflows  
+🔗 https://github.com/pranaynidhi/thm-discord-bot  
+
+#### 🤖 CTF Discord Bot (JavaScript)
+Event/CTF support bot for workflows & automation  
+🔗 https://github.com/pranaynidhi/gzctf_discord_bot  
+
+#### 📓 TryHackMe Notes & Practice
+Structured learning + documentation  
+🔗 https://github.com/pranaynidhi/thm  
+
+> ⚡ Currently improving these with better documentation, reproducibility, and investigation-style writeups.
 
 ---
 
-## Contact
-If you’d like to collaborate (SOC/DFIR labs, detection content, automation), feel free to connect:
-- LinkedIn: https://www.linkedin.com/in/pranay-nidhi-628b6116a/
-- Website: https://pranaynidhi.xyz
+### 🌐 Engineering Projects (Supporting Skills)
+
+#### 🧩 MicroHire Platform
+Full-stack application project  
+
+- Frontend → https://github.com/pranaynidhi/microhire-frontend  
+- Backend → https://github.com/pranaynidhi/microhire-backend  
+- Main Repo → https://github.com/pranaynidhi/MicroHire  
+
+---
+
+## 🚧 Currently Building
+
+- 🧪 **Mini SOC + DFIR Lab**
+  - Windows telemetry collection  
+  - Detection creation  
+  - Investigation workflow  
+  - Full incident report  
+
+- 🧠 Deeper **Windows Internals**
+- 📊 Stronger **host-based investigation skills**
+- 📝 More professional **documentation & reporting**
+
+---
+
+## 📈 Goals
+
+- Transition into a **SOC / DFIR role**
+- Build production-style security tools  
+- Contribute to detection engineering & blue team workflows  
+
+---
+
+## 🤝 Connect
+
+If you're working on SOC labs, DFIR projects, or detection engineering:
+
+- 💼 LinkedIn → https://www.linkedin.com/in/pranay-nidhi-628b6116a/  
+- 🌐 Website → https://pranaynidhi.xyz  
+
+---
+
+## ⚡ Philosophy
+
+> Learn → Build → Break → Detect → Improve
+
+---
