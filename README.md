@@ -106,15 +106,6 @@ I focus on:
 
 ---
 
-## 📈 Coding Activity (Lines, Commits, Languages)
-
-<!-- Optional: Requires WakaTime setup -->
-<!-- Replace username if needed -->
-
-![WakaTime Stats](https://github-readme-stats-phi-amber-61.vercel.app/api/wakatime?username=pranaynidhi&theme=tokyonight&hide_border=true)
-
----
-
 ## 📈 Goals
 
 - Transition into a **SOC / DFIR role**
@@ -125,8 +116,8 @@ I focus on:
 
 ## 🤝 Connect
 
-- 💼 LinkedIn: [pranay-nidhi-628b6116a](https://www.linkedin.com/in/pranay-nidhi-628b6116a/)
-- 🌐 Website: [pranaynidhi.xyz](https://pranaynidhi.xyz)
+- 💼 LinkedIn: [pranay-nidhi](https://www.linkedin.com/in/pranay-nidhi/)
+- 🌐 Website: [pranaynidhi.com.np](https://pranaynidhi.com.np)
 
 ---
 
