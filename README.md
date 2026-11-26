@@ -3,8 +3,8 @@
 🛡️ SOC Analyst (in training) | DFIR | Detection Engineering
 ⚙️ Builder mindset: automation, tooling, and practical security workflows
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Nidhi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranay-nidhi-628b6116a/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-black?style=flat&logo=firefox)](https://pranaynidhi.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Nidhi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranay-nidhi/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-black?style=flat&logo=firefox)](https://pranaynidhi.com.np)
 
 ---
 
@@ -63,22 +63,6 @@ I focus on:
 - JavaScript / TypeScript (bots, backend logic)
 - C (systems-level coursework)
 - PHP / HTML (web fundamentals)
-
----
-
-## 🛠️ Featured Projects
-
-### 🔐 SOC / DFIR & Automation
-
-#### 🤖 THM Discord Bot (Python)
-
-[THM Discord Bot](https://github.com/pranaynidhi/thm-discord-bot)
-
-#### 📓 TryHackMe Notes & Practice
-
-[TryHackMe Notes](https://github.com/pranaynidhi/thm)
-
-> ⚡ Improving with better documentation, reproducibility, and investigation-style writeups.
 
 ---
 
